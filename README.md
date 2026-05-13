@@ -3,11 +3,11 @@
 Nesta atividade, você fazer exercícios de programação para vai praticar a manipulação de objetos e arrays em JavaScript, passando pela definição de dados em notação **JSON (JavaScript Object Notation)**, acessando propriedades e itens.
 ## Informações Gerais
 
-- Nome:
-- Matricula:
+- Nome: Hugo Faria Santos
+- Matricula: 928883
 
 ## Prints do console do navegador
 
-<<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
+![Print da tela](printtela.png)
 
-<<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
+![Print da tela](printconsole.png)
